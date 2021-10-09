@@ -3,8 +3,8 @@ from network import Network
 import pickle
 pygame.font.init()
 
-width = 700
-height = 700
+width = 650
+height = 650
 win = pygame.display.set_mode((width, height))
 pygame.display.set_caption("Client")
 
