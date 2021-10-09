@@ -8,7 +8,7 @@ This is a project for the class: 18CSC302J - Computer Networks by Dr. S.Babu
 
 ## Overview
 
-This is a simple game of rock-paper-scissors developed in Python. It allows two players to play with one another on different command lines through networking. The server starts the game by *first* running `server.py`, waiting for the client to connect by *then* running `client.py`. Once their connected, the game itself starts.
+This is a simple game of rock-paper-scissors developed in Python. It allows two players to play with one another on different command lines through networking. The server starts the game by *first* running `server.py`, waiting for the client to connect by *then* running `client.py`. Once they are connected, the game itself starts.
 
 It is a multiplayer game. Two client files has to be executed simultaneously namely `Player 0` and `Player 1`. A player has to make his/her choice from three given option : Rock , Scissors , Paper and same has to be done by another player. According to predefined conditions the result is decided.
 
